@@ -1,0 +1,14 @@
+C:\Users\민서\source\repos\finalproject\finalproject\bin\Debug\net8.0\finalproject.exe
+C:\Users\민서\source\repos\finalproject\finalproject\bin\Debug\net8.0\finalproject.deps.json
+C:\Users\민서\source\repos\finalproject\finalproject\bin\Debug\net8.0\finalproject.runtimeconfig.json
+C:\Users\민서\source\repos\finalproject\finalproject\bin\Debug\net8.0\finalproject.dll
+C:\Users\민서\source\repos\finalproject\finalproject\bin\Debug\net8.0\finalproject.pdb
+C:\Users\민서\source\repos\finalproject\finalproject\obj\Debug\net8.0\finalproject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\민서\source\repos\finalproject\finalproject\obj\Debug\net8.0\finalproject.AssemblyInfoInputs.cache
+C:\Users\민서\source\repos\finalproject\finalproject\obj\Debug\net8.0\finalproject.AssemblyInfo.cs
+C:\Users\민서\source\repos\finalproject\finalproject\obj\Debug\net8.0\finalproject.csproj.CoreCompileInputs.cache
+C:\Users\민서\source\repos\finalproject\finalproject\obj\Debug\net8.0\finalproject.dll
+C:\Users\민서\source\repos\finalproject\finalproject\obj\Debug\net8.0\refint\finalproject.dll
+C:\Users\민서\source\repos\finalproject\finalproject\obj\Debug\net8.0\finalproject.pdb
+C:\Users\민서\source\repos\finalproject\finalproject\obj\Debug\net8.0\finalproject.genruntimeconfig.cache
+C:\Users\민서\source\repos\finalproject\finalproject\obj\Debug\net8.0\ref\finalproject.dll
